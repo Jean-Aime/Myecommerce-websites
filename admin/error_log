@@ -1,0 +1,551 @@
+[06-Mar-2025 18:23:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 12:54:26 UTC] PHP Warning:  Undefined array key "aid" in /home/sabranob/public_html/admin/dashboard.php on line 3
+[06-Mar-2025 18:25:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 21:40:52 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 21:40:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 16:11:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/insert-product.php(83): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 16:11:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/insert-product.php(83): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 16:12:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/insert-product.php(83): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 16:12:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/insert-product.php(83): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 16:12:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/insert-product.php(83): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 16:12:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/insert-product.php(83): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 21:43:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 21:43:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 21:43:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 21:43:37 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 17:39:53 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/change-password.php on line 5
+[06-Mar-2025 23:24:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 23:24:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 23:25:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 23:25:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 22:16:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(29): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 22:16:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(29): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 22:16:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(16): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 22:16:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(16): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 03:51:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/category.php(48): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 03:51:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/category.php(48): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 03:51:58 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 03:51:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 03:53:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 03:53:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 22:38:51 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 04:44:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 04:50:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[07-Mar-2025 04:58:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 23:37:47 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[06-Mar-2025 23:42:49 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:42:49 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:42:49 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[06-Mar-2025 23:42:57 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:42:57 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:42:58 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/change-password.php on line 3
+[06-Mar-2025 23:42:58 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/change-password.php on line 3
+[06-Mar-2025 23:42:58 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/change-password.php on line 5
+[06-Mar-2025 23:42:58 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:42:58 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:42:58 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/change-password.php on line 3
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/change-password.php on line 3
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/change-password.php on line 5
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:10 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[06-Mar-2025 23:43:12 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:12 UTC] PHP Warning:  session_start(): open(tmp/sess_rk38l6sor8ndjrll5lv7q1n9r5, O_RDWR) failed: No such file or directory (2) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: tmp) in /home/sabranob/public_html/admin/index.php on line 2
+[06-Mar-2025 23:43:12 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[06-Mar-2025 23:44:33 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 05:14:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.Orders' doesn't exist in /home/sabranob/public_html/admin/include/sidebar.php:22
+Stack trace:
+#0 /home/sabranob/public_html/admin/include/sidebar.php(22): mysqli_query()
+#1 /home/sabranob/public_html/admin/change-password.php(77): include('/home/sabranob/...')
+#2 {main}
+  thrown in /home/sabranob/public_html/admin/include/sidebar.php on line 22
+[06-Mar-2025 23:58:35 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 06:54:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 06:54:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:07:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:07:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:07:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:07:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:07:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:07:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:07:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:07:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:20:47 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:20:47 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:30:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:30:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:30:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:30:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:30:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:30:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/pending-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/pending-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/pending-orders.php on line 83
+[07-Mar-2025 07:39:54 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 07:39:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/todays-orders.php:83
+Stack trace:
+#0 /home/sabranob/public_html/admin/todays-orders.php(83): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/todays-orders.php on line 83
+[07-Mar-2025 02:10:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/updateorder.php:82
+Stack trace:
+#0 /home/sabranob/public_html/admin/updateorder.php(82): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/updateorder.php on line 82
+[07-Mar-2025 02:10:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/updateorder.php:82
+Stack trace:
+#0 /home/sabranob/public_html/admin/updateorder.php(82): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/updateorder.php on line 82
+[07-Mar-2025 02:11:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/updateorder.php:16
+Stack trace:
+#0 /home/sabranob/public_html/admin/updateorder.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/updateorder.php on line 16
+[07-Mar-2025 02:13:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/updateorder.php:16
+Stack trace:
+#0 /home/sabranob/public_html/admin/updateorder.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/updateorder.php on line 16
+[07-Mar-2025 02:14:48 UTC] PHP Parse error:  Unmatched '}' in /home/sabranob/public_html/admin/delivered-orders.php on line 126
+[07-Mar-2025 07:45:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:45:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:46:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:46:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:47:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:47:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:48:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:48:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:50:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:50:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "O" in /home/sabranob/public_html/admin/delivered-orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 83
+[07-Mar-2025 07:51:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'orders.userId' in 'ON' in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:51:52 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'orders.userId' in 'ON' in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:51:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'orders.userId' in 'ON' in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:51:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'orders.userId' in 'ON' in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:54:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'orders.userId' in 'ON' in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:54:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'orders.userId' in 'ON' in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:55:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:55:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:55:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:55:39 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sabranob_shopping.orders' doesn't exist in /home/sabranob/public_html/admin/delivered-orders.php:80
+Stack trace:
+#0 /home/sabranob/public_html/admin/delivered-orders.php(80): mysqli_query()
+#1 {main}
+  thrown in /home/sabranob/public_html/admin/delivered-orders.php on line 80
+[07-Mar-2025 07:57:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 90
+[07-Mar-2025 07:57:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:57:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:57:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 92
+[07-Mar-2025 07:57:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 93
+[07-Mar-2025 07:57:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 94
+[07-Mar-2025 07:57:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 90
+[07-Mar-2025 07:57:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:57:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:57:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 92
+[07-Mar-2025 07:57:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 93
+[07-Mar-2025 07:57:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 94
+[07-Mar-2025 02:27:17 UTC] PHP Warning:  Undefined variable $currrentSt in /home/sabranob/public_html/admin/updateorder.php on line 87
+[07-Mar-2025 02:27:18 UTC] PHP Warning:  Undefined variable $currrentSt in /home/sabranob/public_html/admin/updateorder.php on line 87
+[07-Mar-2025 07:59:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 90
+[07-Mar-2025 07:59:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:59:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:59:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 92
+[07-Mar-2025 07:59:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 93
+[07-Mar-2025 07:59:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 94
+[07-Mar-2025 07:59:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 90
+[07-Mar-2025 07:59:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:59:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 91
+[07-Mar-2025 07:59:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 92
+[07-Mar-2025 07:59:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 93
+[07-Mar-2025 07:59:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 94
+[07-Mar-2025 07:59:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 113
+[07-Mar-2025 07:59:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 114
+[07-Mar-2025 07:59:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 114
+[07-Mar-2025 07:59:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 115
+[07-Mar-2025 07:59:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 116
+[07-Mar-2025 07:59:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 117
+[07-Mar-2025 07:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 113
+[07-Mar-2025 07:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 114
+[07-Mar-2025 07:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 114
+[07-Mar-2025 07:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 115
+[07-Mar-2025 07:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 116
+[07-Mar-2025 07:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 117
+[07-Mar-2025 08:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 119
+[07-Mar-2025 08:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 120
+[07-Mar-2025 08:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 120
+[07-Mar-2025 08:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 121
+[07-Mar-2025 08:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 122
+[07-Mar-2025 08:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 123
+[07-Mar-2025 08:01:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 119
+[07-Mar-2025 08:01:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 120
+[07-Mar-2025 08:01:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 120
+[07-Mar-2025 08:01:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 121
+[07-Mar-2025 08:01:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 122
+[07-Mar-2025 08:01:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/sabranob/public_html/admin/delivered-orders.php on line 123
+[07-Mar-2025 02:36:38 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/manage-products.php on line 5
+[07-Mar-2025 07:05:53 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 17:03:59 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 18:30:18 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 18:52:05 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 18:52:26 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 21:03:11 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/edit-products.php on line 5
+[07-Mar-2025 21:03:12 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Mar-2025 22:35:09 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/category.php on line 5
+[07-Mar-2025 22:35:10 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[08-Mar-2025 18:51:49 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[09-Mar-2025 17:02:25 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[10-Mar-2025 14:04:01 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/edit-products.php on line 5
+[10-Mar-2025 14:04:02 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[13-Mar-2025 18:55:44 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[14-Mar-2025 19:21:00 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[15-Mar-2025 08:42:26 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[15-Mar-2025 11:59:46 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[17-Mar-2025 03:14:14 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Mar-2025 04:13:04 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Mar-2025 13:11:37 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Mar-2025 15:42:48 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[22-Mar-2025 04:50:50 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/edit-products.php on line 5
+[22-Mar-2025 04:50:50 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[22-Mar-2025 04:55:42 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/edit-products.php on line 5
+[22-Mar-2025 05:17:05 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[23-Mar-2025 18:58:30 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[27-Mar-2025 01:58:51 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[27-Mar-2025 01:59:02 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[01-Apr-2025 12:24:35 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[01-Apr-2025 17:12:03 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[06-Apr-2025 00:32:15 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[06-Apr-2025 23:14:39 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Apr-2025 16:02:25 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[07-Apr-2025 16:03:29 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[08-Apr-2025 15:14:41 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/edit-products.php on line 5
+[08-Apr-2025 15:14:41 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[11-Apr-2025 07:08:24 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[12-Apr-2025 11:24:10 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[13-Apr-2025 21:44:07 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[14-Apr-2025 12:21:07 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[14-Apr-2025 13:26:32 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[15-Apr-2025 12:18:13 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[15-Apr-2025 22:34:56 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[16-Apr-2025 18:53:07 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[18-Apr-2025 14:04:28 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Apr-2025 10:51:14 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Apr-2025 10:51:35 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Apr-2025 13:07:39 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Apr-2025 14:05:09 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Apr-2025 14:34:26 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Apr-2025 15:49:17 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[19-Apr-2025 18:08:27 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[20-Apr-2025 17:54:37 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[20-Apr-2025 23:32:22 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[20-Apr-2025 23:33:27 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 04:35:18 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 04:35:28 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 08:34:43 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 08:34:52 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 08:41:33 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 14:19:54 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 14:27:58 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 14:27:59 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 15:41:25 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[21-Apr-2025 22:37:55 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81
+[22-Apr-2025 03:57:13 UTC] PHP Warning:  Undefined array key "alogin" in /home/sabranob/public_html/admin/updateorder.php on line 5
+[22-Apr-2025 03:57:25 UTC] PHP Warning:  Undefined array key "errmsg" in /home/sabranob/public_html/admin/index.php on line 81

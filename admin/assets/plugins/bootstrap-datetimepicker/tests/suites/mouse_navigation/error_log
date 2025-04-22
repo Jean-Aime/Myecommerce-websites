@@ -1,0 +1,4 @@
+[27-Mar-2025 02:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/sabranob/public_html/admin/assets/plugins/bootstrap-datetimepicker/tests/suites/mouse_navigation/alfa.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sabranob/public_html/admin/assets/plugins/bootstrap-datetimepicker/tests/suites/mouse_navigation/alfa.php on line 13
